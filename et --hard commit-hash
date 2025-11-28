@@ -1,0 +1,17 @@
+[33mcommit 32949b3b164fa184c9d1379dc47649e3b7b7d008[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Shahbaz Shah <shahbazshahkazmi77@gmail.com>
+Date:   Mon Nov 10 18:21:17 2025 +0500
+
+    Initial commit: added custom exception handling and logging setup
+
+[33mcommit 465e8f97fdf65493ad701372f8c9ca0a6fb09d75[m
+Author: shqahbazshah <shahbazshahkazmi77@gmail.com>
+Date:   Thu Oct 30 21:22:10 2025 +0500
+
+    Create .gitignore
+
+[33mcommit 8da2c1982c56d80a181518a23ed68b639551c325[m
+Author: Shahbaz Shah <shahbazshahkazmi77@gmail.com>
+Date:   Tue Oct 28 12:33:09 2025 +0500
+
+    This is my first commit
