@@ -24,13 +24,13 @@ class DataTransformation:
             categorical_columns = ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch',
                                    'test_preparation_course']
 
-            # Numerical pipeline
+            # Numerical Pipeline
             num_pipeline = Pipeline(steps=[
                 ('imputer', SimpleImputer(strategy='median')),
                 ('scaler', StandardScaler())
             ])
 
-            # Categorical pipeline
+            # Categorical Pipeline
             cat_pipeline = Pipeline(steps=[
                 ('imputer', SimpleImputer(strategy='most_frequent')),
                 ('onehot', OneHotEncoder()),
